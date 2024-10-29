@@ -7,7 +7,7 @@
   <div>
   <a href="https://github.com/gaab159">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaab159&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gaab159=anuraghazra&hide_progress=true)
+    <img height="180em src="https://github-readme-stats.vercel.app/api/top-langs/?gaab159=anuraghazra)](https://github.com/anuraghazra/github-readme-stats"/>
   </div>
 <div>
   <img align="center" alt="gaab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
